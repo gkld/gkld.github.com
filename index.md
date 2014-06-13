@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 熊出没，请注意
+title: Welcome
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
