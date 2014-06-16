@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: Welcome to gkld's Blogs
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
