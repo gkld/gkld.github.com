@@ -16,10 +16,8 @@ nav:
     url: /index.html
   - text: 文章归档
     url: /archives.html
-  - text: 作品
-    url: /works.html
   - text: 联系我
-    url: http://www.zhanxin.info/contact.html
+    url: http://gkld.github.io
 
 #theme config
 themes: /themes/violet
@@ -33,14 +31,14 @@ headimg:
 
 #关注我
 follow:
+  - class: fa-weibo
+    url: http://weibo.com/gkld
+  - class: fa-github
+    url: http://github.com/gkld
   - class: fa-google-plus
     url: http://gkld.github.io
   - class: fa-facebook
     url: http://gkld.github.io
-  - class: fa-github
-    url: http://github.com/gkld
-  - class: fa-weibo
-    url: http://weibo.com/gkld
   - class: fa-twitter
     url: http://gkld.github.io
   - class: fa-rss
