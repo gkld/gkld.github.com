@@ -52,8 +52,4 @@ author:
 #评论信息
 disqus:
   config: true
-  id: piznblog
-
-duoshuo:
-  config: false
-  id: zhanxin
+  id: gkldblog
