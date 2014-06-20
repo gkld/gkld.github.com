@@ -6,7 +6,7 @@ paginate: 8
 safe: false
 
 #站点基础配置
-title: 熊出没，请注意
+title: 熊出没注意
 url: http://gkld.github.io
 feed: /atom.xml
 
@@ -16,7 +16,7 @@ nav:
     url: /index.html
   - text: 文章归档
     url: /archives.html
-  - text: 联系我
+  - text: 我的简历
     url: /contact.html
 
 #theme config
@@ -52,4 +52,4 @@ author:
 #评论信息
 disqus:
   config: true
-  id: gkldblog
+  id: disqus_Q3JGG7vQEn
