@@ -34,21 +34,17 @@ headimg:
 #关注我
 follow:
   - class: fa-google-plus
-    url: http://www.zhanxin.info
+    url: http://gkld.github.io
   - class: fa-facebook
-    url: http://www.zhanxin.info
+    url: http://gkld.github.io
   - class: fa-github
-    url: http://github.com/pizn
+    url: http://github.com/gkld
   - class: fa-weibo
-    url: http://weibo.com/pizner
-  - class: fa-renren
-    url: http://www.zhanxin.info
-  - class: fa-pinterest
-    url: http://www.zhanxin.info
+    url: http://weibo.com/gkld
   - class: fa-twitter
-    url: http://www.zhanxin.info
+    url: http://gkld.github.io
   - class: fa-rss
-    url: http://www.zhanxin.info
+    url: http://gkld.github.io
 
 #作者信息
 author:
