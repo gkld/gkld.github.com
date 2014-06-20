@@ -16,7 +16,7 @@ nav:
     url: /index.html
   - text: 文章归档
     url: /archives.html
-  - text: 我的简历
+  - text: 关于我
     url: /contact.html
 
 #theme config
