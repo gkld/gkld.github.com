@@ -5,6 +5,7 @@ description: 专注于写作，不被各种格式调整所打扰，MarkDown为�
 keywords: markdown, md
 ---
 ##区块元素
+---
 ###段落和换行
 1.  一个段落表示前后要有一个以上的空行（一行全是空格或制表符，也算空行）。
 2.  在一个段落内强制换行，可以在需要换行的地方连续**输入两个空格**，然后回车。
@@ -66,6 +67,10 @@ public void main(String[] agrs){
     System.out.println("Hello World!");
 }
 ```
+
+##分割线
+---
+
 
 
 To be continued...
