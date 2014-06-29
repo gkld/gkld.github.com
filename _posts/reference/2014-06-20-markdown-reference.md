@@ -62,7 +62,7 @@ keywords: markdown, md
 + 简单的缩进4个空格或者1个制表符，就可以创建一个代码区块
 + 如果想要给代码加上高亮，可以用三个“\`”符号加上语言作为开始，然后再用三个“\`”符号结束，把代码包起来。比如：
 
-```c
+```java
 public void main(String[] agrs){
     System.out.println("Hello World!");
 }
@@ -79,7 +79,13 @@ public void main(String[] agrs){
     -------------
 
 ###链接
+链接分两种，行内式和参考式。都用[方括号]表示链接文字，比如
+    
+    [谷歌](http://www.google.com "Google")
 
+翻译成html标签为
+
+    <a href="http://www.google.com" title="Google">谷歌</a>
 
 
 To be continued...
