@@ -224,6 +224,7 @@ a:hover {
     width: 720px;
     padding: 50px 0;
     margin: 0 auto;
+    background-color: #f6f6f6;
 }
 #violet-paging {
     width: 100%;
@@ -375,13 +376,14 @@ a:hover {
     line-height: 22px;
 }
 .main-article-page {
-    background: #fff;
+    background: #f6f6f6;
 }
 .main-article-page .main-article-meta {
     margin: 0px 0 30px 0;
 }
 .main-article-contant {
     margin: 30px 0 30px;
+    background-color: #fff;
 }
 .main-article-contant p {
     font-size: 16px;
@@ -458,9 +460,9 @@ a:hover {
 .main-article blockquote {
     padding: 20px 20px 0 20px;
     margin: 20px 0 24px;
-    border-right: 3px solid #0088cc;
+    border-left: 3px solid #0088cc;
     border-radius: 0 3px 3px 0;
-    text-align: right;
+    text-align: left;
     color: #8d8d8d;
     font-style: italic;
 }
