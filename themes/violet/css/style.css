@@ -375,7 +375,7 @@ a:hover {
     line-height: 22px;
 }
 .main-article-page {
-    background: #f6f6f6;
+    background: #fff;
 }
 .main-article-page .main-article-meta {
     margin: 0px 0 30px 0;
@@ -458,9 +458,9 @@ a:hover {
 .main-article blockquote {
     padding: 20px 20px 0 20px;
     margin: 20px 0 24px;
-    border-left: 3px solid #0088cc;
+    border-right: 3px solid #0088cc;
     border-radius: 0 3px 3px 0;
-    text-align: left;
+    text-align: right;
     color: #8d8d8d;
     font-style: italic;
 }
