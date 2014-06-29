@@ -81,11 +81,11 @@ public void main(String[] agrs){
 ###链接
 链接分两种，行内式和参考式。都用[方括号]表示链接文字，比如
     
-    [谷歌](http://www.google.com "Google")
+    有问题找[谷歌](http://www.google.com "Google")
 
 翻译成html标签为
 
-    <a href="http://www.google.com" title="Google">谷歌</a>
+    <p>有问题找<a href="http://www.google.com" title="Google">谷歌</a></p>
 
 
 To be continued...
